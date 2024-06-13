@@ -1,4 +1,4 @@
-<img align="center" alt="coding" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
+<img align="center" alt="coding" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" width="700">
 <h1 align="center">Hi 👋, I'm Es-sahly Hamza</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 <img align="right" alt="coding" width="400" 

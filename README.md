@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Es-sahly Hamza</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
-<img align="right" alt="coding" width="400" 
+<img align="right" alt="coding" width="300" 
 src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200w.gif?cid=82a1493bgjqmxrru85106p1gjy7ehcv4bdlw8d03ewtwosoj&ep=v1_gifs_related&rid=200w.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=es-sahly-hamza&label=Profile%20views&color=0e75b6&style=flat" alt="es-sahly-hamza" /> </p>
 

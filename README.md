@@ -1,4 +1,4 @@
-<img alt="coding" src="[https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif](https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-5.gif)" width="1500" height="450">
+<img alt="coding" src="https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-5.gif" width="1500" height="450">
 <h1 align="center">Hi 👋, I'm Es-sahly Hamza</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 <img align="right" alt="coding" width="400" 

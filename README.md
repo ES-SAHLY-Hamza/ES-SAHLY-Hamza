@@ -9,6 +9,12 @@ src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be
 
 - 🌱 I’m currently learning **Frameworks , courses and learning some skills**
 
+- 👨‍💻 All of my projects are available at [https://github.com/ES-SAHLY-Hamza?tab=repositories](https://github.com/ES-SAHLY-Hamza?tab=repositories)
+
+- 💬 Ask me about **Java, Flutter, Dart, MERN stack, Business intelligence (Talend , Power BI) , Python, JavaScript, C# and .Net**
+
+- 📫 How to reach me **essahly.hamza.esisa.2122@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sehli hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sehli hamza" height="30" width="40" /></a>
@@ -24,3 +30,4 @@ src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=es-sahly-hamza&show_icons=true&locale=en" alt="es-sahly-hamza" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=es-sahly-hamza&" alt="es-sahly-hamza" /></p>
+

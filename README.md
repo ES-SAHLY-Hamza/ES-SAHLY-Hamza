@@ -5,13 +5,13 @@
 src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=es-sahly-hamza&label=Profile%20views&color=0e75b6&style=flat" alt="es-sahly-hamza" /> </p>
 
-- 🔭 I’m currently working on **projet end of year**
+- 🔭  I'm currently studying on **software engineering**
 
-- 🌱 I’m currently learning **Frameworks , courses and learning some skills**
+- 🌱 I’m currently learning **new courses and learning some skills**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ES-SAHLY-Hamza?tab=repositories](https://github.com/ES-SAHLY-Hamza?tab=repositories)
 
-- 💬 Ask me about **Java, Flutter, Dart, MERN stack, Business intelligence (Talend , Power BI) , Python, JavaScript, C# and .Net**
+- 💬 Ask me about **Java, Flutter, Dart, MERN stack, Business intelligence, Python, JavaScript, C# and .Net, Oracle, Devops**
 
 - 📫 How to reach me **essahly.hamza.esisa.2122@gmail.com**
 

@@ -1,5 +1,3 @@
-<img alt="coding" src="[https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif]
-  (https://user-images.githubusercontent.com/119114162/224994258-80e12746-1bc3-4502-ac06-52570e2c7a83.gif)" width="1500" height="420">
 <h1 align="center">Hi 👋, I'm Es-sahly Hamza</h1>
 <h3 align="center">A passionate Software Engineer from Morocco</h3>
 <img align="right" alt="coding" width="400" 

@@ -9,6 +9,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2400&pause=900&color=00F5FF&center=true&vCenter=true&width=850&height=60&lines=AI+Engineer+%7C+Data+Scientist;LLMs+%7C+NLP+%7C+Computer+Vision;MLOps+%26+DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation;Building+Scalable+AI+Systems" />
 </a>
 
+
+<!-- 🌌 SUBTLE GLOW LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:0f0c29&height=2&section=header"/>
+</p>
+
 </div>
 
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="400"/>

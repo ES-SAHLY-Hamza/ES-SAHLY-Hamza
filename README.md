@@ -4,16 +4,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hamza%20ES-SAHLY&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20MLOps%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <div align="center">
-
 <a href="https://github.com/ES-SAHLY-Hamza">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2400&pause=900&color=00F5FF&center=true&vCenter=true&width=850&height=60&lines=AI+Engineer+%7C+Data+Scientist;LLMs+%7C+NLP+%7C+Computer+Vision;MLOps+%26+DevOps+Engineer;Cloud+%7C+CI%2FCD+%7C+Automation;Building+Scalable+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=700&size=25&duration=2600&pause=1100&color=A8EDFF&background=00000000&center=true&vCenter=true&width=860&height=58&lines=AI+Engineer+%E2%80%A2+Data+Scientist;LLMs+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;MLOps+%E2%80%A2+DevOps+%E2%80%A2+Cloud+Automation;Building+Scalable+%26+Intelligent+Systems;Turning+Data+into+Decisions+%E2%86%92+Impact" alt="Typing SVG"/>
 </a>
 
-
-<!-- 🌌 SUBTLE GLOW LINE -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:0f0c29&height=2&section=header"/>
-</p>
+<!-- ✦ AURORA GLOW DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030B1A,25:0A2540,50:0E6BA8,75:0A2540,100:030B1A&height=3&width=100%25"/>
 
 </div>
 

@@ -42,7 +42,6 @@
 
 <!-- Tech Stack Section -->
 <!-- AI / ML -->
-<details open>
 <h3 align="left">AI · Machine Learning · LLM :</h3>
 <br/>
 <p align="center">
@@ -64,20 +63,14 @@
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" title="Matlab"/>
 </p>
-</details>
 
 <!-- DevOps / MLOps -->
-<details open>
 <h3 align="left">DevOps · MLOps · Cloud :</h3>
 
 <br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,azure,gcp,linux,nginx,terraform,git,postman&theme=dark" />
 </p>
-</details>
-
-
-
 ---
 
 <!-- Featured Projects -->

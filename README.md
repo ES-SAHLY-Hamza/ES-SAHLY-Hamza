@@ -2,10 +2,22 @@
 
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hamza%20ES-SAHLY&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20MLOps%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
+
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🤖+Building+Intelligent+Systems+from+Scratch;🧠+LLMs+%7C+NLP+%7C+Computer+Vision+%7C+MLOps;🚀+Turning+Data+into+Decisions+%7C+Models+into+Products" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Profile Views + Followers -->
+<img src="https://komarev.com/ghpvc/?username=ES-SAHLY-Hamza&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+&nbsp;
+<a href="https://github.com/ES-SAHLY-Hamza?tab=followers">
+  <img src="https://img.shields.io/github/followers/ES-SAHLY-Hamza?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS"/>
+</a>
+
 </div
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" img align="right" alt="Coding" width="400"">
-
 
 - I'm currently a Software Engineering student specializing in **Artificial Intelligence, Data Science & DevOps**
 

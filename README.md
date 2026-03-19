@@ -78,7 +78,7 @@
 
 <!-- Featured Projects -->
 <div align="center">
-<h2>🚀 Featured Projects</h2>
+<h2>Featured Projects</h2>
 </div>
 
 <div align="center">
@@ -87,7 +87,7 @@
 <td width="50%" valign="top">
 
 ### 🔍 Multimodal Search Engine
-> **@ KYBOHO** · LLMs + NLP + CV + STT
+**@ KYBOHO** · LLMs + NLP + CV + STT
 
 Built an intelligent search engine combining **Vertex AI Gemini**, **CamemBERT**, and **Whisper** for multilingual voice and image understanding. Real-time ETL pipelines for live data ingestion.
 
@@ -109,7 +109,7 @@ Geo-based intelligent matching system for intrasite carpooling using proximity a
 <td width="50%" valign="top">
 
 ### 🎙️ Customer Frustration Detection
-> **AI System** · NLP + Speech Emotion Recognition
+**AI System** · NLP + Speech Emotion Recognition
 
 AI-powered system to detect vocal emotions and frustration in real-time from call center audio. Implemented **NLP** + **Speech-to-Text** models to assist agents with smart response suggestions.
 

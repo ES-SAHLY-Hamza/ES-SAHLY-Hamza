@@ -19,76 +19,34 @@
 
 </div>
 
----
+<!-- Profile Views + Followers -->
+<img src="https://komarev.com/ghpvc/?username=ES-SAHLY-Hamza&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
+&nbsp;
+<a href="https://github.com/ES-SAHLY-Hamza?tab=followers">
+  <img src="https://img.shields.io/github/followers/ES-SAHLY-Hamza?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS"/>
+</a>
 
-<!-- About Section with Terminal Style -->
-<div align="center">
-<h2>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  &nbsp;About Me
-</h2>
 </div>
 
-```python
-class HamzaEsSahly:
-    def __init__(self):
-        self.name        = "Hamza ES-SAHLY"
-        self.role        = "Élève Ingénieur — IA & Data Science (2ème année)"
-        self.school      = "École d'Ingénieurs du Littoral Côte d'Opale 🇫🇷"
-        self.location    = "Calais, Hauts-de-France, France 📍"
-        self.focus       = ["LLMs", "NLP", "Computer Vision", "MLOps", "DevOps", "Data Engineering"]
-        self.ask_me      = ["Python", "Machine Learning", "LLMs", "NLP", "Flutter/Dart",
-                            "MERN Stack", "Business Intelligence", "Docker", "DevOps", "Java"]
-        self.seeking     = "Stage IA / Data Science / DevOps — à partir de Mai 2025 🎯"
-        self.github      = "https://github.com/ES-SAHLY-Hamza"
-        self.contact     = "sehli9483@gmail.com"
-        self.languages   = ["Arabic 🇲🇦 (natif)", "Français 🇫🇷 (courant)",
-                            "English 🇬🇧 (bien)", "Español 🇪🇸 (basique)"]
-        self.motto       = "Transforming data into intelligence, models into impact."
+-  I'm currently studying on **software engineering**
 
-    def current_mission(self):
-        return "Building an intelligent multimodal search engine @ KYBOHO 🔍🧠"
+-  I’m currently learning **new courses and learning some skills**
 
-me = HamzaEsSahly()
-print(me.current_mission())
-# Output: Building an intelligent multimodal search engine @ KYBOHO 🔍🧠
-```
+-  All of my projects are available at [https://github.com/ES-SAHLY-Hamza?tab=repositories](https://github.com/ES-SAHLY-Hamza?tab=repositories)
 
----
+-  Ask me about **Java, Flutter, Dart, MERN stack, Business intelligence, Python, JavaScript, C# and .Net, Oracle, Devops**
 
-<!-- Experience Timeline -->
-<div align="center">
-<h2>⚡ Professional Journey</h2>
-</div>
+-  How to reach me **essahly.hamza.esisa.2122@gmail.com**
 
-<table align="center" width="90%">
-<tr>
-<td width="30%" align="right"><b>Mars – Août 2025</b><br/><i>🏢 KYBOHO, Fès 🇲🇦</i></td>
-<td width="5%" align="center">🔵</td>
-<td width="65%">
-  <b>AI & Data Engineer — Alternance</b><br/>
-  Multimodal intelligent search engine with LLMs · NLP · Computer Vision · Speech-to-Text (Vertex AI Gemini) · Real-time ETL pipelines
-</td>
-</tr>
-<tr>
-<td width="30%" align="right"><b>Avr. – Sep. 2024</b><br/><i>🏢 CDG, Casablanca 🇲🇦</i></td>
-<td width="5%" align="center">🟣</td>
-<td width="65%">
-  <b>Data & Mobile Solution Engineer — PFE</b><br/>
-  Smart carpooling matching system · Geo-proximity algorithms · Recommendation engine
-</td>
-</tr>
-<tr>
-<td width="30%" align="right"><b>Juin – Sep. 2023</b><br/><i>🏢 ESISA CUBE, Fès 🇲🇦</i></td>
-<td width="5%" align="center">🟢</td>
-<td width="65%">
-  <b>Data & AI Developer — Internship</b><br/>
-  Data-driven BI platform in MERN Stack · ETL pipeline · KPI dashboards · Business Intelligence
-</td>
-</tr>
-</table>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sehli hamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sehli hamza" height="30" width="40" /></a>
+<a href="https://fb.com/hamza sehli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza sehli" height="30" width="40" /></a>
+<a href="https://instagram.com/hamza_sehlii1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamza_sehlii1" height="30" width="40" /></a>
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <!-- Tech Stack Section -->
 <div align="center">
@@ -100,23 +58,19 @@ print(me.current_mission())
 <summary><b>🤖 AI · Machine Learning · LLMs</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="45" title="Jupyter"/>
-  &nbsp;&nbsp;
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="45" title="HuggingFace"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="45" title="Vertex AI / Google Cloud"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" height="45" title="OpenAI / Whisper"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="45" title="Pandas"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="45" title="NumPy"/>
-  &nbsp;&nbsp;
-  <img src="https://www.mlflow.org/img/mlflow-black.svg" height="40" title="MLflow"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="45" title="Matlab"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CamemBERT-FF4B4B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 </p>
 </details>
 
@@ -125,7 +79,17 @@ print(me.current_mission())
 <summary><b>⚙️ DevOps · MLOps · Cloud</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,azure,gcp,linux,nginx,terraform,git,postman&theme=dark" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-FF6D00?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Virtualisation-0DB7ED?style=for-the-badge&logo=vmware&logoColor=white"/>
 </p>
 </details>
 
@@ -134,17 +98,16 @@ print(me.current_mission())
 <summary><b>📊 Data Engineering · BI · Databases</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,oracle&theme=dark" />
-  <br/><br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="45" title="SQL Server"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" height="45" title="MariaDB"/>
-  &nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/apache-kafka.svg" height="45" title="Apache Kafka"/>
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/talend/talend-icon.svg" height="45" title="Talend ETL"/>
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="45" title="Power BI"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Talend-FF6D70?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 </details>
 
@@ -153,9 +116,16 @@ print(me.current_mission())
 <summary><b>💻 Development · Web · Mobile</b></summary>
 <br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,java,dotnet,js,ts,tailwind,dart,php,html,css&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,jira,vscode,figma&theme=dark" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </p>
 </details>
 
@@ -193,12 +163,12 @@ Geo-based intelligent matching system for intrasite carpooling using proximity a
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Customer Frustration Detection
-> **AI System** · NLP + Speech Emotion Recognition
+### 📊 BI Decision Platform
+> **@ ESISA CUBE** · Data-driven Analytics
 
-AI-powered system to detect vocal emotions and frustration in real-time from call center audio. Implemented **NLP** + **Speech-to-Text** models to assist agents with smart response suggestions.
+Full MERN stack BI platform with ETL pipeline, KPI dashboards and sales analysis reporting system to support business decisions.
 
-`Python` `NLP` `Speech-to-Text` `Emotion AI` `SpeechBrain`
+`React` `Node.js` `MongoDB` `Talend` `Power BI`
 
 </td>
 <td width="50%" valign="top">

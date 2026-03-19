@@ -3,6 +3,18 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hamza%20ES-SAHLY&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20MLOps%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
+<!-- 🎞️ NEXT-GEN AI CAROUSEL -->
+<a href="https://github.com/ES-SAHLY-Hamza">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&duration=2200&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=70&lines=🚀+AI+Engineer+%7C+Data+Scientist+%7C+MLOps+Architect;🧠+LLMs+%7C+NLP+%7C+Computer+Vision+Expert;⚙️+Designing+Scalable+AI+%26+DevOps+Pipelines;☁️+Cloud+AI+%7C+Automation+%7C+CI%2FCD+Systems;🔬+Building+Multimodal+Intelligent+Systems;🔥+Transforming+Data+into+Production+AI+Solutions" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- 🌌 SUBTLE GLOW LINE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:0f0c29&height=2&section=header"/>
+</p>
+
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="400"/>
 <br/>
 <!-- Profile Views + Followers -->

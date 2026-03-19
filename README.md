@@ -3,10 +3,14 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hamza%20ES-SAHLY&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20MLOps%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🤖+Building+Intelligent+Systems+from+Scratch;🧠+LLMs+%7C+NLP+%7C+Computer+Vision+%7C+MLOps;🚀+Turning+Data+into+Decisions+%7C+Models+into+Products" alt="Typing SVG" />
-</a>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" img align="right" alt="Coding" width="400"">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail-aabari&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-aabari" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismail-aabari" alt="ismail-aabari" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <br/>
 

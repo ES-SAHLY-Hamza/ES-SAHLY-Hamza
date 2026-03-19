@@ -17,47 +17,18 @@
   <img src="https://img.shields.io/github/followers/ES-SAHLY-Hamza?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS"/>
 </a>
 
-</div>
+</div
 
+- I'm currently a Software Engineering student specializing in **Artificial Intelligence, Data Science & DevOps**
 
-<!-- Connect Section -->
-<div align="center">
-<h2>🌐 Let's Connect</h2>
+- I’m currently deepening my expertise in **Machine Learning, LLMs, MLOps, Cloud Computing (Azure / GCP), and scalable data pipelines**
 
-<a href="mailto:sehli9483@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/hamza-es-sahly">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/ES-SAHLY-Hamza">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://instagram.com/hamza_sehlii1">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+- Explore my projects in **AI, NLP, Computer Vision, and DevOps pipelines** here:  
+  [https://github.com/ES-SAHLY-Hamza?tab=repositories](https://github.com/ES-SAHLY-Hamza?tab=repositories)
 
-<br/><br/>
+- Ask me about **AI Engineering (LLMs, NLP, Deep Learning), Data Engineering (ETL, Real-time pipelines), DevOps (CI/CD, Cloud, Docker), and Full-Stack Development**
 
-<img src="https://img.shields.io/badge/📍%20Calais%2C%20France-0d1117?style=for-the-badge&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/🎯%20Open%20to%20Stage%20IA%20%2F%20DevOps%20—%20Mai%202025-00d9ff?style=for-the-badge&logoColor=white"/>
-
-</div>
-
-
--  I'm currently studying on **software engineering**
-
--  I’m currently learning **new courses and learning some skills**
-
--  All of my projects are available at [https://github.com/ES-SAHLY-Hamza?tab=repositories](https://github.com/ES-SAHLY-Hamza?tab=repositories)
-
--  Ask me about **Java, Flutter, Dart, MERN stack, Business intelligence, Python, JavaScript, C# and .Net, Oracle, Devops**
-
--  How to reach me **essahly.hamza.esisa.2122@gmail.com**
+- How to reach me: **sehli9483@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,6 +3,9 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hamza%20ES-SAHLY&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20MLOps%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" img align="right" alt="Coding" width="400"">
+
+
 </div
 
 - I'm currently a Software Engineering student specializing in **Artificial Intelligence, Data Science & DevOps**

@@ -10,14 +10,10 @@
 
 <br/>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=ES-SAHLY-Hamza&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
-&nbsp;
-<a href="https://github.com/ES-SAHLY-Hamza?tab=followers">
-  <img src="https://img.shields.io/github/followers/ES-SAHLY-Hamza?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS"/>
-</a>
-
 </div
+
+<h3 align="center">I am a software engineering student</h3>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" img align="right" alt="Coding" width="400"">
 
 - I'm currently a Software Engineering student specializing in **Artificial Intelligence, Data Science & DevOps**
 

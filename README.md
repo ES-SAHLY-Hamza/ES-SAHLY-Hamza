@@ -3,16 +3,15 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hamza%20ES-SAHLY&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20MLOps%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🤖+Building+Intelligent+Systems+from+Scratch;🧠+LLMs+%7C+NLP+%7C+Computer+Vision+%7C+MLOps;🚀+Turning+Data+into+Decisions+%7C+Models+into+Products" alt="Typing SVG" />
-</a>
-
-<br/>
-
 </div
 
-<h3 align="center">I am a software engineering student</h3>
+<!-- 🎞️ TYPING CAROUSEL — Multi-identité -->
+<a href="https://github.com/ES-SAHLY-Hamza">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=1000&color=00CFFF&center=true&vCenter=true&repeat=true&width=760&height=55&lines=AI+%26+Data+Science+Engineer+%F0%9F%A4%96;LLM+%7C+NLP+%7C+Computer+Vision+Specialist+%F0%9F%A7%A0;MLOps+%26+DevOps+Practitioner+%E2%9A%99%EF%B8%8F;Building+Multimodal+AI+Systems+%F0%9F%94%8D;Turning+Raw+Data+into+Real+Impact+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+<br/>
+<!--
+
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" img align="right" alt="Coding" width="400"">
 
 - I'm currently a Software Engineering student specializing in **Artificial Intelligence, Data Science & DevOps**

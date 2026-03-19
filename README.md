@@ -4,8 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hamza%20ES-SAHLY&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20MLOps%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <div align="center">
+
 <a href="https://github.com/ES-SAHLY-Hamza">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=700&size=25&duration=2600&pause=1100&color=A8EDFF&background=00000000&center=true&vCenter=true&width=860&height=58&lines=AI+Engineer+%E2%80%A2+Data+Scientist;LLMs+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision;MLOps+%E2%80%A2+DevOps+%E2%80%A2+Cloud+Automation;Building+Scalable+%26+Intelligent+Systems;Turning+Data+into+Decisions+%E2%86%92+Impact" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=700&size=25&duration=2300&pause=900&color=A8EDFF&background=00000000&center=true&vCenter=true&width=900&height=60&lines=AI+Engineer+%E2%80%A2+Data+Scientist+%E2%80%A2+MLOps+Architect;LLMs+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision+Expert;Designing+Scalable+AI+%26+DevOps+Pipelines;Cloud+AI+%E2%80%A2+CI%2FCD+%E2%80%A2+Automation+Systems;Building+Multimodal+Intelligent+Systems;Transforming+Data+into+Production+AI+Solutions" alt="Typing SVG"/>
 </a>
 
 <!-- ✦ AURORA GLOW DIVIDER -->

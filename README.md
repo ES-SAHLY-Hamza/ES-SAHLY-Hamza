@@ -6,11 +6,8 @@
 <div align="center">
 
 <a href="https://github.com/ES-SAHLY-Hamza">
-  <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=700&size=25&duration=2300&pause=900&color=A8EDFF&background=00000000&center=true&vCenter=true&width=900&height=60&lines=AI+Engineer+%E2%80%A2+Data+Scientist+%E2%80%A2+MLOps+Architect;LLMs+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision+Expert;Designing+Scalable+AI+%26+DevOps+Pipelines;Cloud+AI+%E2%80%A2+CI%2FCD+%E2%80%A2+Automation+Systems;Building+Multimodal+Intelligent+Systems;Transforming+Data+into+Production+AI+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Syne+Mono&weight=700&size=25&duration=2300&pause=900&color=00F5FF&background=00000000&center=true&vCenter=true&width=900&height=60&lines=AI+Engineer+%E2%80%A2+Data+Scientist+%E2%80%A2+MLOps+Architect;LLMs+%E2%80%A2+NLP+%E2%80%A2+Computer+Vision+Expert;Designing+Scalable+AI+%26+DevOps+Pipelines;Cloud+AI+%E2%80%A2+CI%2FCD+%E2%80%A2+Automation+Systems;Building+Multimodal+Intelligent+Systems;Transforming+Data+into+Production+AI+Solutions" alt="Typing SVG"/>
 </a>
-
-<!-- ✦ AURORA GLOW DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030B1A,25:0A2540,50:0E6BA8,75:0A2540,100:030B1A&height=3&width=100%25"/>
 
 </div>
 

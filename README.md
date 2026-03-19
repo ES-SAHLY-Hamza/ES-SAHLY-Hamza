@@ -5,9 +5,6 @@
 
 </div
 
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" img align="right" alt="Coding" width="400"">
-
 - I'm currently a Software Engineering student specializing in **Artificial Intelligence, Data Science & DevOps**
 
 - I’m currently deepening my expertise in **Machine Learning, LLMs, MLOps, Cloud Computing (Azure / GCP), and scalable data pipelines**

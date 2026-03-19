@@ -5,12 +5,6 @@
 
 </div
 
-<!-- 🎞️ TYPING CAROUSEL — Multi-identité -->
-<a href="https://github.com/ES-SAHLY-Hamza">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=1000&color=00CFFF&center=true&vCenter=true&repeat=true&width=760&height=55&lines=AI+%26+Data+Science+Engineer+%F0%9F%A4%96;LLM+%7C+NLP+%7C+Computer+Vision+Specialist+%F0%9F%A7%A0;MLOps+%26+DevOps+Practitioner+%E2%9A%99%EF%B8%8F;Building+Multimodal+AI+Systems+%F0%9F%94%8D;Turning+Raw+Data+into+Real+Impact+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
-<br/>
-<!--
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" img align="right" alt="Coding" width="400"">
 

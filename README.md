@@ -3,17 +3,8 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hamza%20ES-SAHLY&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20MLOps%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding" img align="right" alt="Coding" width="400"">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail-aabari&label=Profile%20views&color=0e75b6&style=flat" alt="ismail-aabari" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismail-aabari" alt="ismail-aabari" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" align="right" width="400"/>
 <br/>
-
 <!-- Profile Views + Followers -->
 <img src="https://komarev.com/ghpvc/?username=ES-SAHLY-Hamza&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS"/>
 &nbsp;
